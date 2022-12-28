@@ -33,14 +33,14 @@ Un point pas spécifiquement lié à l'informatique, mais qui à pourtant sa pla
 que je trouve très importants. Dans un monde technologique, ou (quasiment) tout le monde court derrière un profit toujours grandissant, le partage désintéréssé
 de nos connaissances est un moyen de faire grandir l'intellect global, et de montrer qu'on peut aller plus loin en travaillant ensemble.
 
-Mais mes intérêts sont aussi extra-scolaires !
-J'aime par exemple le basketball, les jeux vidéos, l'astrophoto ou la cuisine !
+##### Mais mes intérêts sont aussi extra-scolaires !
+J'aime par exemple le **basketball**, les **jeux vidéos**, l'**astrophoto** ou la **cuisine** !
 
 
 
 
 
-Tu peux me contacter par mail si tu le souhaites : gautier.chiquet@etu.univ-tours.fr
+Tu peux me contacter par **mail** si tu le souhaites : gautier.chiquet@etu.univ-tours.fr
 
 <!--
 **Liptionne/Liptionne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
