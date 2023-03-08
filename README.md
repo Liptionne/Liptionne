@@ -18,13 +18,13 @@ de précision. La recherche de failles et de moyens pour les colmater sont pour 
 
 
 ### Les réseaux
-Domaine lié à la sécurité, j'affectionne particulièrement le travail de réseau. Je trouve que la communiquation entre différents appareils est passionante,
-l'apprentssage des différents protocoles et leurs applications. Les domaines liés aux réseaux : calcul distribués, blockchain, réseaux de véhicules, ...
+Domaine lié à la sécurité, j'affectionne particulièrement le travail de réseau. Je trouve que la communication entre différents appareils est passionante,
+l'apprentissage des différents protocoles et leurs applications. Les domaines liés aux réseaux : calcul distribué, blockchain, réseaux de véhicules, ...
 sont pour moi des domaines de présent mais surtout d'avenir, et j'ai hâte d'apporter ma pierre à cet immense édifice !
 
 ### Le génie logiciel
-Pour moi, le génie logiciel, c'est un travail important, qu'il soit de modelisation, d'architexture, ou encore de spécifications, c'est le travail préliminaire,
-et néanmoins indispensable, pour tou bon projet logiciel. Je trouve très éléguant l'idée de construire le logiciel sans code, juste ne spécifiant les besoins,
+Pour moi, le génie logiciel, c'est un travail important, qu'il soit de modelisation, d'architecture, ou encore de spécifications, c'est le travail préliminaire,
+et néanmoins indispensable, pour tou bon projet logiciel. Je trouve très élégant l'idée de construire le logiciel sans code, juste ne spécifiant les besoins,
 et les méthodes, créer une architecture cohérente et évolutive. 
 
 ### L'open source
@@ -40,7 +40,7 @@ J'aime par exemple le **basketball**, les **jeux vidéos**, l'**astrophoto** ou 
 
 
 
-Tu peux me contacter par **mail** si tu le souhaites : gautier.chiquet@etu.univ-tours.fr
+Tu peux me contacter par **mail** si tu le souhaites : mailto:gautier.chiquet@etu.univ-tours.fr
 
 <!--
 **Liptionne/Liptionne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
